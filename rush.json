@@ -430,8 +430,9 @@
     //   "tags": [ "tools" ]
     // }
     {
-      "packageName": "@dev-tools/eslint-config-react",
-      "projectFolder": "tools/eslint-config-react"
+      "packageName": "@borisshulyak/eslint-config-react",
+      "projectFolder": "tools/eslint-config-react",
+      "shouldPublish": true
     }
   ]
 }
