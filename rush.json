@@ -433,6 +433,11 @@
       "packageName": "@borisshulyak/eslint-config-react",
       "projectFolder": "tools/eslint-config-react",
       "shouldPublish": true
+    },
+    {
+      "packageName": "@borisshulyak/eslint-config-node",
+      "projectFolder": "tools/eslint-config-node",
+      "shouldPublish": true
     }
   ]
 }
